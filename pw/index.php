@@ -37,7 +37,7 @@ $buku = query("SELECT * FROM buku");
   <div class="container">
     <div class="card mt-4" style="border-radius: 10px;  box-shadow: 0 5px 20px rgba(0,0,0,0.5);">
       <div class="card-body text-dark">
-        <h2 class="display-1" style="font-family: 'Pattaya'; text-align :center;">Daftar Buku</h2>
+        <h2 class="display-1" style="font-family: 'Pattaya'; text-align :center;">Daftar Novelku</h2>
         <div class="add mb-3  btn btn-primary bg-gradient rounded-pill" style="width:180px" ;>
           <a href="tambah.php" style="text-decoration:none;color:white;">Tambah Data Buku</a>
         </div>
