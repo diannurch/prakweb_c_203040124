@@ -1,3 +1,10 @@
 <div class="container">
-  <h1 class="mt-3"> Selamat Datang di Website Saya</h1>
+
+  <div class="jumbotron mt-5">
+    <h1 class="display-4">Selamat Datang di Website saya!</h1>
+    <div class="lead">Halo, nama saya <?= $data['nama']; ?> </div>
+    <hr class="my-4">
+    <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+    <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+  </div>
 </div>
